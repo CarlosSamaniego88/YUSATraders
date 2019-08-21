@@ -51,14 +51,31 @@ a {
 
 .bg-light {
     background: var(--light-color);
-    color: #333;
+    color: black;
+}
+/* Boxes */
+#boxes {
+    margin-top: 20px;
+    margin-bottom: 125px;
+}
+
+#boxes .box {
+    float: left;
+    width: 22%;
+    padding: 15px;
+    text-align: center;
+}
+
+#boxes .box img{
+    width: 100px;
+    height: auto;
 }
 
 /* Showcase */
 #showcase{
     margin:0;
     padding:0;
-    background: url('../images/photos/chickens.jpg') no-repeat center/cover;
+    background: url('../static/images/photos/turkeys.jpg') no-repeat center/cover;
     width: 100%;
     height: 80vh;
     overflow-y: hidden;
@@ -185,7 +202,6 @@ nav ul {
   
 nav li {
     display: inline;
-    float: left;
 }
 
 nav ul li #logo {
@@ -217,8 +233,14 @@ nav li:hover {
 nav a#openup {
     display: none;
 }
-  
+
 @media screen and (max-width: 580px) {
+    #boxes .box {
+        float:none;
+        text-align: center;
+        width:100%;
+    }  
+
     .hide-on-small {
         display:none;
     }
@@ -256,11 +278,11 @@ nav a#openup {
       text-align: left;
       width: 100%;
       text-indent: 25px;
-      background: #333;
-      border-bottom: 1px solid #555;
+      background: #023866;
+      border-bottom: 1px solid #023866;
     }
     nav a:hover {
-      background: #444;
+      background: #023866;
     }
     nav a#openup:after {
       content: "|||";
@@ -278,7 +300,7 @@ nav a#openup {
     }
     nav a#openup {
       display: block;
-      background-color: #333;
+      background-color: #023866;
       width: 100%;
       position: relative;
     }
