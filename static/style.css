@@ -21,6 +21,23 @@ a {
     color:#ccc;
 }
 
+#slideshow { 
+    margin: 50px auto; 
+    position: relative; 
+    width: 240px; 
+    height: 240px; 
+    padding: 10px; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+}
+
+#slideshow > div { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+}
+
 /* Section */
 
 .section {
@@ -75,7 +92,7 @@ a {
 #showcase{
     margin:0;
     padding:0;
-    background: url('../static/images/photos/turkeys.jpg') no-repeat center/cover;
+    /* background: url('../static/images/photos/turkeys.jpg') no-repeat center/cover; */
     width: 100%;
     height: 80vh;
     overflow-y: hidden;
@@ -115,14 +132,30 @@ div.transbox {
     opacity: 0.6;
     filter: alpha(opacity=60); 
     /* For IE8 and earlier */
-    
-}
-  
-div.transbox{
     margin: 5%;
     font-weight: bold;
     color: #000000;
+    
 }
+
+div.transbox img {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 0;
+    margin-top:0;
+}
+
+div.transbox h1 {
+    margin-bottom: -10px;
+}
+
+div.transbox h2 {
+    margin-bottom: -10px;
+    margin-top: -10px;
+}
+
+
+
 
 .my-form {
     padding:20px;
@@ -202,9 +235,15 @@ nav ul {
   
 nav li {
     display: inline;
+    float: left;
 }
 
-nav ul li #logo {
+#logo {
+    width: 50px;
+    height: 100%;
+}
+
+/* nav ul li #logo {
     position: relative;
     left: 120%;
     top: 3px;
@@ -214,7 +253,7 @@ nav ul li #logo {
 
 nav ul li #logo:hover {
     background-color: #025caa;
-}
+} */
   
 nav a {
     display: inline-block;
@@ -240,6 +279,10 @@ nav a#openup {
         text-align: center;
         width:100%;
     }  
+
+    #boxes {
+        margin-bottom: 0px;
+    }
 
     .hide-on-small {
         display:none;
