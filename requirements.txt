@@ -1,8 +1,10 @@
 asgiref==3.2.3
 astroid==2.3.3
+Babel==2.8.0
 certifi==2019.11.28
 click==7.1.2
 Flask==1.1.2
+Flask-Babel==1.0.0
 Flask-WTF==0.14.3
 isort==4.3.21
 itsdangerous==1.1.0
