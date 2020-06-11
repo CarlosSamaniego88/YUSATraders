@@ -1,0 +1,107 @@
+# Spanish translations for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-06-11 15:08-0400\n"
+"PO-Revision-Date: 2020-06-11 15:09-0400\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:9
+msgid "YUSA Traders, expertise and honesty is our signature."
+msgstr "YUSA Traders, experiencia y honestidad es nuestra firma."
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:74
+msgid "International Business"
+msgstr "Mercadeo Internacionales"
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:75
+msgid "YUSA Traders Inc is a leader in the North America meat trade. We supply chicken, turkey, beef and pork products. Our international relationships in the meat industry have allowed us to distribute our products across North America. Under the newly renovated United States, Mexico, Canada agreement (USMCA), we export and import products from the region efficiently, providing our products by leveraging our vast network of suppliers and distributors across the continent."
+msgstr "YUSA Traders Inc, es líder en América del Norte en mercadeo de productos cárnicos. Abastecemos de productos frescos y congelados de pollo, pavo, res y cerdo. Nuestras relaciones comerciales internacionales en la industria cárnica nos ha permitido la distribución de nuestros productos en toda la América del Norte. Bajo el renovado Tratado de Libre Comercio de América del Norte (TLCAN), exportamos e importamos productos cárnicos de la región de una manera eficiente, tomando ventaja de nuestra red de proveedores y distribuidores en todo el continente."
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:82
+msgid "About Us"
+msgstr "Sobre Nosotros"
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:83
+msgid "We at YUSA Traders Inc, were founded in 2012, however, our expertise on the meat trade business started since early 1988. Since then, we have lead in the supply and distribution of a variety of meat products in North America. The partnership we have as an authorized agent for "
+msgstr "YUSA Traders fue creada en el año 2012, sin embargo, nuestra experiencia en el mercadeo de productos cárnicos vienes desde 1988. Desde entonces, hemos sido lideres en el abasto y distribución de una gran variedad de productos cárnicos en América del Norte. La sociedad que tenemos como agentes autorizados de "
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:83
+msgid " has allowed us to have a vast credibility and an international reach. We truly believe in delivering meat goods efficiently to all our customers. Our strategy to reach our goals consists on high-quality products, efficient transportation, and the right logistical strategy. The market continuance and the outcome of a satisfied customer is the result of collaboration and personal communication between all of our suppliers, distributors and associates in the region. YUSA Traders Inc, Expertise and Honesty is our Signature."
+msgstr ", nos ha permitido tener una gran credibilidad en la industria y un liderazgo único a nivel internacional. Creemos fielmente en el abasto eficiente de cárnicos a nuestros clientes. Nuestra estrategia para alcanzar nuestro objetivo, son los productos de alta calidad, aunado a un sistema de transporte en tiempo, y las estrategias de logística aplicadas adecuadamente. La permanencia en el mercado y satisfacción de nuestros clientes son el resultado de la colaboración y comunicación personal y constante con nuestros proveedores, distribuidores y socios en la región. YUSA Traders. Experiencia y Honestidad son Nuestro Sello de Garantía."
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:92
+msgid "Our Products"
+msgstr "Nuestros Productos"
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:98
+msgid "Chicken"
+msgstr "Pollo"
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:101
+msgid "We supply chicken leq quarters, chicken heart, chicken breast, and whole chickens. Poultry is highly demanded in our business."
+msgstr "Suministramos cuartos de leq de pollo, corazón de pollo, pechuga de pollo y pollos enteros. Las aves de corral son muy demandadas en nuestro negocio."
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:111
+msgid "Turkey"
+msgstr "Pavo"
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:115
+msgid "Turkey legs, whole turkeys of varying size are highly requested seasonally. Our orders of turkey can be frozen or fresh."
+msgstr "Las patas de pavo, pavos enteros de diferentes tamaños son muy solicitados estacionalmente. Nuestros pedidos de pavo pueden ser congelados o frescos."
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:126
+msgid "Cows"
+msgstr "Vacas"
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:130
+msgid "We have a wide variety of products we sell such as intestines, leg quarters, and other groups. Cattle are fed organic, non-gmo products to ensure highest quality."
+msgstr "Tenemos una amplia variedad de productos que vendemos, como intestinos, cuartos de piernas y otros grupos. El ganado se alimenta con productos orgánicos no modificados genéticamente para garantizar la máxima calidad."
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:141
+msgid "Pigs"
+msgstr "Cerdo"
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:82
+msgid "Our key products in this category include multiple types of pork, and meats. Orders in this category can be made frozen or fresh."
+msgstr "Nuestros productos clave en esta categoría incluyen múltiples tipos de carne de cerdo y carnes. Los pedidos en esta categoría se pueden hacer congelados o frescos."
+
+#: app/templates/base.html:57
+msgid "Home"
+msgstr "Casa"
+
+#: app/templates/base.html:64
+msgid "Contact Us"
+msgstr "Contáctenos"
+
+#: app/templates/base.html:67
+msgid "Language"
+msgstr "Idioma"
+
+#: app/templates/base.html:69
+msgid "English"
+msgstr "Ingles"
+
+#: app/templates/base.html:70
+msgid "Spanish"
+msgstr "Español"
+
+#: app/templates/base.html:81
+msgid "Back to top"
+msgstr "Volver Arriba"
+
+#: app/templates/base.html:82
+msgid "Copyright"
+msgstr "Aviso de Copyright"

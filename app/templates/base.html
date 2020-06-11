@@ -54,20 +54,20 @@
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="/">{{_('Home')}} <span class="sr-only">(current)</span></a>
           </li>
         </ul>
    
         <div class="pull-right">
           <ul class="nav nav-pills">
               <li>
-                <a href="mailto:cscarlossamaniego@gmail.com" type=button class="btn btn-outline-light" style="margin-right:5px; padding-bottom: 10px;">Contact Us <i class="fas fa-envelope"></i></a>
+                <a href="mailto:cscarlossamaniego@gmail.com" type=button class="btn btn-outline-light" style="margin-right:5px; padding-bottom: 10px;">{{_('Contact Us')}} <i class="fas fa-envelope"></i></a>
               </li>
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle btn btn-outline-primary" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Language</a>
+                <a class="nav-link dropdown-toggle btn btn-outline-primary" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">{{_('Language')}}</a>
                 <div class="dropdown-menu dropdown-menu-right">
-                  <a class="dropdown-item" href="#">English <img src="/static/images/photos/flag-for-united-states_1f1fa-1f1f8.png" alt="" style="width: 20px; height: 20px;"></a>
-                  <a class="dropdown-item" href="#">Spanish <img src="/static/images/photos/flag-for-spain_1f1ea-1f1f8.png" alt="" style="width: 20px; height: 20px;"></a>
+                    <a class="dropdown-item" href="{{ url_for(request.endpoint, lang_code='en') }}">{{_('English')}} <img src="/static/images/photos/flag-for-united-states_1f1fa-1f1f8.png" alt="" style="width: 20px; height: 20px;"></a>
+                    <a class="dropdown-item" href="{{ url_for(request.endpoint, lang_code='es') }}">{{_('Spanish')}} <img src="/static/images/photos/flag-for-spain_1f1ea-1f1f8.png" alt="" style="width: 20px; height: 20px;"></a>
                 </div>
               </li>
           </ul>     
@@ -78,8 +78,8 @@
   {% block content %}
   {% endblock %}
   <footer class="container">
-    <p class="float-right"><a href="#">Back to top</a></p>
-    <p>&copy; 2020 Copyright: YUSA Traders Inc.</p>
+    <p class="float-right"><a href="#">{{_('Back to top')}}</a></p>
+    <p>&copy; 2020 {{_('Copyright')}}: YUSA Traders Inc.</p>
   </footer>
 
 
