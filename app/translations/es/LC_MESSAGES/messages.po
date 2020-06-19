@@ -20,15 +20,15 @@ msgstr ""
 
 #: app/blueprints/multilingual/templates/multilingual/home.html:9
 msgid "YUSA Traders, expertise and honesty is our signature."
-msgstr "YUSA Traders, experiencia y honestidad es nuestra firma."
+msgstr "YUSA Traders, experiencia y honestidad es nuestro sello de garantía."
 
 #: app/blueprints/multilingual/templates/multilingual/home.html:74
 msgid "International Business"
-msgstr "Mercadeo Internacionales"
+msgstr "Mercadeo Internacional"
 
 #: app/blueprints/multilingual/templates/multilingual/home.html:75
 msgid "YUSA Traders Inc is a leader in the North America meat trade. We supply chicken, turkey, beef and pork products. Our international relationships in the meat industry have allowed us to distribute our products across North America. Under the newly renovated United States, Mexico, Canada agreement (USMCA), we export and import products from the region efficiently, providing our products by leveraging our vast network of suppliers and distributors across the continent."
-msgstr "YUSA Traders Inc, es líder en América del Norte en mercadeo de productos cárnicos. Abastecemos de productos frescos y congelados de pollo, pavo, res y cerdo. Nuestras relaciones comerciales internacionales en la industria cárnica nos ha permitido la distribución de nuestros productos en toda la América del Norte. Bajo el renovado Tratado de Libre Comercio de América del Norte (TLCAN), exportamos e importamos productos cárnicos de la región de una manera eficiente, tomando ventaja de nuestra red de proveedores y distribuidores en todo el continente."
+msgstr "YUSA Traders Inc, es líder en América del Norte en mercadeo de productos cárnicos. Abastecemos de productos frescos y congelados de pollo, pavo, res y cerdo. Nuestras relaciones comerciales internacionales en la industria cárnica nos ha permitido la distribución de nuestros productos en todo América del Norte. Bajo el renovado Tratado de Libre Comercio de América del Norte (TLCAN), exportamos e importamos productos cárnicos de la región de una manera eficiente, tomando ventaja de nuestra red de proveedores y distribuidores en todo el continente."
 
 #: app/blueprints/multilingual/templates/multilingual/home.html:82
 msgid "About Us"
@@ -36,52 +36,56 @@ msgstr "Sobre Nosotros"
 
 #: app/blueprints/multilingual/templates/multilingual/home.html:83
 msgid "We at YUSA Traders Inc, were founded in 2012, however, our expertise on the meat trade business started since early 1988. Since then, we have lead in the supply and distribution of a variety of meat products in North America. The partnership we have as an authorized agent for "
-msgstr "YUSA Traders fue creada en el año 2012, sin embargo, nuestra experiencia en el mercadeo de productos cárnicos vienes desde 1988. Desde entonces, hemos sido lideres en el abasto y distribución de una gran variedad de productos cárnicos en América del Norte. La sociedad que tenemos como agentes autorizados de "
+msgstr "YUSA Traders fue creada en el año 2012, sin embargo, nuestra experiencia en el mercadeo de productos cárnicos data desde 1988. Desde entonces, hemos sido lideres en el abasto y distribución de una gran variedad de productos cárnicos en América del Norte. La sociedad que tenemos como agentes autorizados de "
 
 #: app/blueprints/multilingual/templates/multilingual/home.html:83
-msgid " has allowed us to have a vast credibility and an international reach. We truly believe in delivering meat goods efficiently to all our customers. Our strategy to reach our goals consists on high-quality products, efficient transportation, and the right logistical strategy. The market continuance and the outcome of a satisfied customer is the result of collaboration and personal communication between all of our suppliers, distributors and associates in the region. YUSA Traders Inc, Expertise and Honesty is our Signature."
-msgstr ", nos ha permitido tener una gran credibilidad en la industria y un liderazgo único a nivel internacional. Creemos fielmente en el abasto eficiente de cárnicos a nuestros clientes. Nuestra estrategia para alcanzar nuestro objetivo, son los productos de alta calidad, aunado a un sistema de transporte en tiempo, y las estrategias de logística aplicadas adecuadamente. La permanencia en el mercado y satisfacción de nuestros clientes son el resultado de la colaboración y comunicación personal y constante con nuestros proveedores, distribuidores y socios en la región. YUSA Traders. Experiencia y Honestidad son Nuestro Sello de Garantía."
+msgid " has allowed us to have a vast credibility and an international reach."
+msgstr ", nos ha permitido tener una gran credibilidad en la industria y un liderazgo único a nivel internacional."
 
-#: app/blueprints/multilingual/templates/multilingual/home.html:92
+#: app/blueprints/multilingual/templates/multilingual/home.html:84
+msgid "We truly believe in delivering meat goods efficiently to all our customers. Our strategy to reach our goals consists on high-quality products, efficient transportation, and the right logistical strategy. The market continuance and the outcome of a satisfied customer is the result of collaboration and personal communication between all of our suppliers, distributors and associates in the region."
+msgstr "Creemos fielmente en el abasto eficiente de cárnicos a nuestros clientes. Nuestra estrategia para alcanzar nuestro objetivo, son los productos de alta calidad, aunado a un sistema de transporte en tiempo, y las estrategias de logística aplicadas adecuadamente. La permanencia en el mercado y satisfacción de nuestros clientes son el resultado de la colaboración y la  comunicación personalizada y constante con nuestros proveedores, distribuidores y asociados en la región. "
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:85
+msgid "YUSA Traders Inc, expertise and honesty is our signature."
+msgstr "YUSA Traders. Experiencia y honestidad son nuestro sello de garantía."
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:94
 msgid "Our Products"
 msgstr "Nuestros Productos"
 
-#: app/blueprints/multilingual/templates/multilingual/home.html:98
+#: app/blueprints/multilingual/templates/multilingual/home.html:100
 msgid "Chicken"
 msgstr "Pollo"
 
-#: app/blueprints/multilingual/templates/multilingual/home.html:101
+#: app/blueprints/multilingual/templates/multilingual/home.html:103
 msgid "Chicken items are our most highly demanded products. We supply various chicken related items, including but not limited to chicken leg quarters, drums, miscut wings, chicken breast, a variety of breast trimmings, gizzards, and whole chickens."
 msgstr "Los productos de pollo son los que tienen mayor demanda en nuestro negocio. Algunos ejemplos de los productos que abastecemos son, pierna y muslo, pierna bate, alas número 2, pechuga, una gama amplia de recortes, mollejas, pollo entero entre otros."
 
-#: app/blueprints/multilingual/templates/multilingual/home.html:111
+#: app/blueprints/multilingual/templates/multilingual/home.html:113
 msgid "Pork"
 msgstr "Cerdo"
 
-#: app/blueprints/multilingual/templates/multilingual/home.html:115
-msgid "Our key products in this category include, but is not limited to multiple types of pork, such as pork carcasses, bone in hams, hearts, stomachs, loins, front and hind feet, bellies, fresh and frozen skins, neckbones, and trimmings."
+#: app/blueprints/multilingual/templates/multilingual/home.html:116
+msgid "Our key products in this category include, but is not limited to multiple types of pork cuts, such as pork carcasses, bone in hams, hearts, stomachs, loins, front and hind feet, bellies, fresh and frozen skins, neckbones, and trimmings."
 msgstr "Nuestra categoría de productos claves de cerdo incluyen canales frescos cortados en secciones, pierna con hueso y cuero, corazón, buche, lomo, manitas y patitas, tocinos, cueros frescos y congelados, espinazo, recortes."
 
 
-#: app/blueprints/multilingual/templates/multilingual/home.html:124
+#: app/blueprints/multilingual/templates/multilingual/home.html:126
 msgid "Turkey"
 msgstr "Pavo"
 
-#: app/blueprints/multilingual/templates/multilingual/home.html:127
+#: app/blueprints/multilingual/templates/multilingual/home.html:129
 msgid "Our turkey product line includes but is not limited to fresh or frozen whole turkeys, drumsticks, tails, and necks."
 msgstr "Los productos de pavo que manejamos pueden ser fresco y congelado, tales como pavos enteros, pierna bate, colas, pescuezos entre otros."
 
-#: app/blueprints/multilingual/templates/multilingual/home.html:137
+#: app/blueprints/multilingual/templates/multilingual/home.html:139
 msgid "Beef"
 msgstr "Res"
 
-#: app/blueprints/multilingual/templates/multilingual/home.html:140
+#: app/blueprints/multilingual/templates/multilingual/home.html:142
 msgid "We supply various beef items, including but not limited to tripe, livers, hearts, feet, kidneys, small intestines, cheek meat, head meat, and beef trimmings."
 msgstr "En los productos de res, abastecemos productos como el menudo, higado, corazón, patas, riñon, tripas, cachete, carne de cabeza, recortes entre otros."
-
-#: app/templates/base.html:57
-msgid "Home"
-msgstr "Casa"
 
 #: app/templates/base.html:64
 msgid "Contact Us"
