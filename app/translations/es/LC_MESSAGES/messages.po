@@ -51,32 +51,33 @@ msgid "Chicken"
 msgstr "Pollo"
 
 #: app/blueprints/multilingual/templates/multilingual/home.html:101
-msgid "We supply chicken leq quarters, chicken heart, chicken breast, and whole chickens. Poultry is highly demanded in our business."
-msgstr "Suministramos cuartos de leq de pollo, corazón de pollo, pechuga de pollo y pollos enteros. Las aves de corral son muy demandadas en nuestro negocio."
+msgid "Chicken items are our most highly demanded products. We supply various chicken related items, including but not limited to chicken leg quarters, drums, miscut wings, chicken breast, a variety of breast trimmings, gizzards, and whole chickens."
+msgstr "Los productos de pollo son los que tienen mayor demanda en nuestro negocio. Algunos ejemplos de los productos que abastecemos son, pierna y muslo, pierna bate, alas número 2, pechuga, una gama amplia de recortes, mollejas, pollo entero entre otros."
 
 #: app/blueprints/multilingual/templates/multilingual/home.html:111
+msgid "Pork"
+msgstr "Cerdo"
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:115
+msgid "Our key products in this category include, but is not limited to multiple types of pork, such as pork carcasses, bone in hams, hearts, stomachs, loins, front and hind feet, bellies, fresh and frozen skins, neckbones, and trimmings."
+msgstr "Nuestra categoría de productos claves de cerdo incluyen canales frescos cortados en secciones, pierna con hueso y cuero, corazón, buche, lomo, manitas y patitas, tocinos, cueros frescos y congelados, espinazo, recortes."
+
+
+#: app/blueprints/multilingual/templates/multilingual/home.html:124
 msgid "Turkey"
 msgstr "Pavo"
 
-#: app/blueprints/multilingual/templates/multilingual/home.html:115
-msgid "Turkey legs, whole turkeys of varying size are highly requested seasonally. Our orders of turkey can be frozen or fresh."
-msgstr "Las patas de pavo, pavos enteros de diferentes tamaños son muy solicitados estacionalmente. Nuestros pedidos de pavo pueden ser congelados o frescos."
+#: app/blueprints/multilingual/templates/multilingual/home.html:127
+msgid "Our turkey product line includes but is not limited to fresh or frozen whole turkeys, drumsticks, tails, and necks."
+msgstr "Los productos de pavo que manejamos pueden ser fresco y congelado, tales como pavos enteros, pierna bate, colas, pescuezos entre otros."
 
-#: app/blueprints/multilingual/templates/multilingual/home.html:126
-msgid "Cows"
-msgstr "Vacas"
+#: app/blueprints/multilingual/templates/multilingual/home.html:137
+msgid "Beef"
+msgstr "Res"
 
-#: app/blueprints/multilingual/templates/multilingual/home.html:130
-msgid "We have a wide variety of products we sell such as intestines, leg quarters, and other groups. Cattle are fed organic, non-gmo products to ensure highest quality."
-msgstr "Tenemos una amplia variedad de productos que vendemos, como intestinos, cuartos de piernas y otros grupos. El ganado se alimenta con productos orgánicos no modificados genéticamente para garantizar la máxima calidad."
-
-#: app/blueprints/multilingual/templates/multilingual/home.html:141
-msgid "Pigs"
-msgstr "Cerdo"
-
-#: app/blueprints/multilingual/templates/multilingual/home.html:82
-msgid "Our key products in this category include multiple types of pork, and meats. Orders in this category can be made frozen or fresh."
-msgstr "Nuestros productos clave en esta categoría incluyen múltiples tipos de carne de cerdo y carnes. Los pedidos en esta categoría se pueden hacer congelados o frescos."
+#: app/blueprints/multilingual/templates/multilingual/home.html:140
+msgid "We supply various beef items, including but not limited to tripe, livers, hearts, feet, kidneys, small intestines, cheek meat, head meat, and beef trimmings."
+msgstr "En los productos de res, abastecemos productos como el menudo, higado, corazón, patas, riñon, tripas, cachete, carne de cabeza, recortes entre otros."
 
 #: app/templates/base.html:57
 msgid "Home"
