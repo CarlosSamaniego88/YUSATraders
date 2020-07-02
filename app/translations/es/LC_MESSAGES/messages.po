@@ -97,7 +97,7 @@ msgstr "Idioma"
 
 #: app/templates/base.html:69
 msgid "English"
-msgstr "Ingles"
+msgstr "Inglés"
 
 #: app/templates/base.html:70
 msgid "Spanish"
